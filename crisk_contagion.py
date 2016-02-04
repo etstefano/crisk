@@ -13,7 +13,7 @@ import itertools
 import numpy as np
 import pandas as pd
 
-path = "C:\\Users\\S\\Documents\\Insight\\input_data\\"
+path = "/home/Stef/crisk/"
 
 ###############################################################################
 #import data and list of impact matrices
